@@ -1,6 +1,10 @@
 # askid_ui
 
-A new Flutter project.
+Flutter Ui that Validates Text Using RegEx code
+<br><br>
+<img src="./screenshots/Screenshot_1566419394.png" width="360" height="640">      <img src="./screenshots/Screenshot_1566419538.png" width="360" height="640">
+<br>
+<img src="./screenshots/Screenshot_1566419426.png" width="360" height="640">
 
 ## Getting Started
 
